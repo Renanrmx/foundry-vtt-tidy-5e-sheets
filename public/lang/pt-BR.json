@@ -1,0 +1,613 @@
+{
+    "T5EK.Tidy5eSheet": "Ficha de Personagem Tidy 5e kgar",
+    "T5EK.Tidy5eNPC": "Ficha de NPC Tidy 5e kgar",
+    "T5EK.Tidy5eItemSheet": "Ficha de Item Tidy 5e kgar",
+    "T5EK.Tidy5eVehicle": "Ficha de Veículo Tidy 5e kgar",
+    "T5EK.PlayerName": "Nome do Jogador",
+    "T5EK.Gender": "Gênero",
+    "T5EK.Age": "Idade",
+    "T5EK.Weight": "Peso",
+    "T5EK.Height": "Altura",
+    "T5EK.Eyes": "Olhos",
+    "T5EK.Skin": "Pele",
+    "T5EK.Hair": "Cabelo",
+    "T5EK.Subclass": "Subclasse",
+    "T5EK.EditActorImage": "clique esquerdo: editar imagem",
+    "T5EK.ShowActorImage": "clique direito: mostrar arte do personagem",
+    "T5EK.ShowPortraitArt": "mostrar retrato",
+    "T5EK.ShowTokenArt": "mostrar token",
+    "T5EK.ShowItemImage": "clique direito: mostrar arte do item",
+    "T5EK.ShowItemArt": "mostrar imagem",
+    
+    "T5EK.Exhaustion0": "Sem efeitos negativos",
+    "T5EK.Exhaustion1": "Desvantagem em Testes de Habilidade",
+    "T5EK.Exhaustion2": "Velocidade reduzida pela metade",
+    "T5EK.Exhaustion3": "Desvantagem em Jogadas de Ataque e Testes de Resistência",
+    "T5EK.Exhaustion4": "Pontos de vida máximos reduzidos pela metade",
+    "T5EK.Exhaustion5": "Velocidade reduzida a 0",
+    "T5EK.Exhaustion6": "Morte",
+    
+    "T5EK.AbbrInitiative": "Ini",
+    
+    "T5EK.RestHint": "Tirar um Descanso",
+    "T5EK.RestS": "Descanso Curto",
+    "T5EK.RestL": "Descanso Longo",
+    "T5EK.HitDiceRollAverage": "Clique Direito: Média",
+    
+    "T5EK.Journal": "Diário",
+    
+    "T5EK.RestoreOnRest": "Restaurar ao descansar",
+    
+    "T5EK.JournalPoi": "Pessoas de Interesse",
+    "T5EK.JournalLoi": "Locais de Interesse",
+    "T5EK.JournalQuests": "Missões",
+    "T5EK.JournalMisc": "Diversos",
+    "T5EK.JournalEntries": "Entradas de Diário",
+    "T5EK.TogglePersonalityInfo": "Alternar Informações de Personalidade",
+    
+    "T5EK.EnableEdit": "Habilitar Edição",
+    "T5EK.DisableEdit": "Desabilitar Edição",
+    "T5EK.EditHint": "Alterna a visibilidade dos botões de adicionar/excluir e seções vazias",
+    
+    "T5EK.Equip": "Equipar Item",
+    "T5EK.Unequip": "Desequipar Item",
+    "T5EK.Attune": "Sintonizar com Item",
+    "T5EK.Deattune": "Quebrar Sintonização",
+    "T5EK.Prepare": "Preparar Magia",
+    "T5EK.Unprepare": "Remover Preparação",
+    
+    "T5EK.EmptySection": "Esta seção está vazia. Desbloqueie a ficha para editar.",
+    "T5EK.GmOnlyEdit": "Apenas o Mestre pode editar esta seção.",
+    
+    "T5EK.AttunementWarning": "Aviso de Sintonização: Você não pode sintonizar com mais de {number} itens!",
+    "T5EK.AttunementItems": "Itens Sintonizados",
+    "T5EK.AttunementMax": "Máximo de Sintonização",
+    
+    "T5EK.GridLayout": "Layout de Grade",
+    "T5EK.ListLayout": "Layout de Lista",
+    
+    "T5EK.Encumbrance": "Carga",
+    
+    "T5EK.EditSpell": "Editar Magia",
+    "T5EK.DeleteSpell": "Excluir Magia",
+    "T5EK.AddFav": "Adicionar aos Favoritos",
+    "T5EK.isFav": "Favorito",
+    "T5EK.RemoveFav": "Remover dos Favoritos",
+    
+    "T5EK.ToggleInfo": "Alternar Informações",
+    
+    "T5EK.Show": "mostrar/editar",
+    "T5EK.Hide": "ocultar",
+    "T5EK.Edit": "editar",
+    "T5EK.TraitsEmpty": "traços vazios",
+    
+    "T5EK.Abilities": "Habilidades",
+    
+    "T5EK.Environment": "Ambiente",
+    
+    "T5EK.SearchItem": "buscar item",
+    "T5EK.SearchSpell": "buscar magia",
+    "T5EK.SearchFeat": "buscar característica",
+    "T5EK.SearchClear": "limpar busca",
+    "T5EK.SearchHint": "Comece a digitar o que está procurando.",
+    
+    "T5EK.ItemCardsKeyHint": "segure a Tecla para interagir com o card.",
+    "T5EK.ItemCardsMouseHint": "botão do meio do mouse para ver/editar item.",
+    
+    "T5EK.AbbrMod": "Mod",
+    "T5EK.AbbrSavingThrow": "Salvamento",
+    "T5EK.SpellAttackMod": "Mod de Ataque",
+    "T5EK.PreparedSpells": "Magias Preparadas",
+    "T5EK.PreparedSpellsMax": "Máximo de magias preparadas (Nota: não use o modo 'Substituir' no efeito ativo)",
+    "T5EK.Components": "Componentes",
+    "T5EK.SpellSchool": "Escola",
+    
+    "T5EK.TokenLinked": "Token vinculado ao ator",
+    "T5EK.TokenUnlinked": "Token não vinculado ao ator",
+    
+    "T5EK.ItemDetailsHeadline": "Mecânicas/Texto de Flavor",
+    
+    "T5EK.Class": "Classe",
+    "T5EK.SpellClass": "Classe de Magia",
+    "T5EK.Spellbook": "Livro de Magias",
+    
+    "T5EK.ClassArtificer": "Artífice",
+    "T5EK.ClassBarbarian": "Bárbaro",
+    "T5EK.ClassBard": "Bardo",
+    "T5EK.ClassCleric": "Clérigo",
+    "T5EK.ClassCustom": "Customizado",
+    "T5EK.ClassDruid": "Druida",
+    "T5EK.ClassFighter": "Lutador",
+    "T5EK.ClassMonk": "Monge",
+    "T5EK.ClassPaladin": "Paladino",
+    "T5EK.ClassRanger": "Patrulheiro",
+    "T5EK.ClassRogue": "Ladino",
+    "T5EK.ClassSorcerer": "Feiticeiro",
+    "T5EK.ClassWarlock": "Bruxo",
+    "T5EK.ClassWizard": "Mago",
+    
+    "T5EK.OriginSummaryConfig": "Configuração de Resumo de Origem",
+    
+    "T5EK.LevelBump": "Aumento de Nível",
+    "T5EK.LevelBumpTooltip": "Quando você está lançando uma magia, você pode lançá-la um nível mais alto gratuitamente.",
+    
+    "T5EK.Settings.GlobalLabel": "Global",
+    "T5EK.Settings.DebugLabel": "Depuração",
+    "T5EK.Settings.UserLabel": "Usuário",
+    "T5EK.Settings.PcLabel": "PJs",
+    "T5EK.Settings.NpcLabel": "NPCs",
+    "T5EK.Settings.VehicleLabel": "Veículos",
+    "T5EK.Settings.MulticlassSpellbookFilterLabel": "Filtro de Livro de Magias Multiclasse",
+    "T5EK.Settings.ColorPickerLabel": "Personalizar a cor (É aconselhável instalar o módulo 'Configurações de Cor')",
+    
+    "T5EK.Settings.SheetMenu": {
+      "name": "Configurações de Ficha Tidy",
+      "hint": "Personalize sua própria versão do Tidy",
+      "label": "Configurações de Ficha",
+      "title": "Configurações de Ficha T5EK"
+    },
+    "T5EK.Settings.TabPlayers": {
+      "tabLabel": "Jogadores",
+      "header": "Fichas de Personagens dos Jogadores"
+    },
+    "T5EK.Settings.TabNPCsVehicles": {
+      "tabLabel": "NPCs/Veículos",
+      "header": "Fichas de NPC/Veículo",
+      "labelNPCs": "NPCs",
+      "labelVehicles": "Veículos"
+    },
+    "T5EK.Settings.TabGM": {
+      "tabLabel": "Opções do Mestre",
+      "header": "Opções de Ficha do Mestre"
+    },
+    "T5EK.Settings.TabHomebrewRules": {
+      "tabLabel": "Regras Caseiras",
+      "header": "Regras Caseiras",
+      "labelHBUpcastFreeSpell": "Magia Sem Custo de Upcast"
+    },
+    "T5EK.Settings.TabModules": {
+      "tabLabel": "Módulos",
+      "header": "Opções de Módulos",
+      "labelActionsFavorites": "Ações do Ator/Favoritos",
+      "labelMidiQoL": "Midi Qol",
+      "labelLazyMoney": "Lazy Money"
+    },
+    "T5EK.Settings.TabLocks": {
+      "tabLabel": "Travas",
+      "header": "Opções de Trava",
+      "hint": "Impede os jogadores de fazer alterações em aspectos de suas fichas de personagem que devem mudar com pouca frequência e fornece a opção de ocultar completamente alguns elementos que você não deseja usar. As configurações estão disponíveis para personalizar exatamente o que está bloqueado/oculto e determinar quem tem permissão para tornar as fichas editáveis através de um botão de alternância.",
+      "hint2": "Note que isso não é um bloqueio seguro e os jogadores poderiam contornar as restrições, portanto, não é uma solução suficiente se seus jogadores forem mal-intencionados. Isso é destinado a jogos onde os jogadores são inexperientes (com D&D e/ou com o uso de computadores) para evitar que cometam erros (ex. adicionar/remover proficiência em testes de resistência acidentalmente).",
+      "labelGeneralLocks": "Travas Gerais",
+      "labelInventoryLocks": "Travas de Inventário",
+      "labelFeaturesLocks": "Travas de Características"
+    },
+    "T5EK.Settings.TabInfo": {
+      "tabLabel": "Informações",
+      "header": "Informações"
+    },
+    "T5EK.Settings.ItemCardsForAllItems": {
+      "name": "Mostrar cartas de informações dos itens em todos os layouts.",
+      "hint": "Desative se você quiser apenas as cartas de informações dos itens deslizantes no layout de grade."
+    },
+    "T5EK.Settings.ItemCardsForNpcs": {
+      "name": "Mostrar cartas de informações dos itens para NPCs/veículos.",
+      "hint": "Desative se você não quiser as cartas de informações dos itens deslizantes para NPCs/veículos."
+    },
+    "T5EK.Settings.ItemCardsAreFloating": {
+      "name": "Cartas de informações dos itens flutuam ao lado do cursor.",
+      "hint": "Ative para desanexar as cartas de informações dos itens da ficha e flutuá-las ao lado do cursor. Melhor usar com atraso. Também útil quando a ficha está destacada."
+    },
+    "T5EK.Settings.ItemCardsDelay": {
+      "name": "Atrasar a exibição das cartas de informações.",
+      "hint": "A Carta de Informações do Item aparecerá quando você passar o mouse sobre um item pelo valor em milissegundos (0 = sem atraso, 300 é o padrão)."
+    },
+    "T5EK.Settings.ItemCardsFixKey": {
+      "name": "Tecla para interação com a Carta de Informações do Item.",
+      "hint": "Digite uma tecla (por exemplo: x) para usar na interação com a carta de informações do item. Pode ser qualquer tecla, exceto teclas de função (ctrl, alt, etc.)"
+    },
+    "T5EK.Settings.SheetTheme": {
+      "name": "Tema de cor do T5EK.",
+      "hint": "Use o tema de cor claro padrão ou o tema de cor escuro alternativo do T5EK.",
+      "default": "Padrão (claro)",
+      "dark": "Alternativo (escuro)"
+    },
+    "T5EK.Settings.ClassicControls": {
+      "name": "Usar controles clássicos de itens na visualização de lista.",
+      "hint": "Sempre mostra os controles de itens, isso não desativará o menu de clique direito. Aplica-se apenas ao inventário de itens/magias de PC no layout de lista."
+    },
+    "T5EK.Settings.HideIconsNextToTheItemName": {
+      "name": "Ocultar ícones ao lado do nome do item",
+      "hint": "Se ativado, essa configuração oculta os ícones de suporte presentes ao lado do nome do objeto (Favorito, Sintonização, etc.), isso geralmente é útil com a configuração 'Usar controles clássicos de itens na visualização de lista' ativada para evitar uma redundância de ícones..."
+    },
+    "T5EK.Settings.RollButtonsToCard": {
+      "name": "Mostrar botões de item MidiQol na carta de informações do item",
+      "hint": "Por padrão, os botões de rolagem aparecem na descrição do item. Ative para movê-los para a carta de informações do item. Funciona em todos os modos de layout."
+    },
+    "T5EK.Settings.TraitLabels": {
+      "name": "Mostrar Etiquetas de Traços.",
+      "hint": "Desative para mostrar apenas ícones para traços de PC/NPC."
+    },
+    "T5EK.Settings.PlayerName": {
+      "name": "Mostrar nome do jogador.",
+      "hint": "Ative para mostrar um campo para o nome do jogador abaixo do nome do personagem."
+    },
+    "T5EK.Settings.JournalTab": {
+      "name": "Ocultar diário do personagem.",
+      "hint": "Ative para ocultar a aba de diário do personagem."
+    },
+    "T5EK.Settings.JournalTabNPCDisabled": {
+      "name": "Ocultar diário do NPC.",
+      "hint": "Ative para ocultar a aba de diário do NPC."
+    },
+    "T5EK.Settings.ClassList": {
+      "name": "Ocultar lista de classes do personagem.",
+      "hint": "Ative para ocultar a lista de classes abaixo do nome do personagem."
+    },
+    "T5EK.Settings.InspirationAnimation": {
+      "name": "Desativar animação do rastreador de inspiração.",
+      "hint": "Ative para desativar a animação de brilho do rastreador de inspiração."
+    },
+    "T5EK.Settings.HideIfZero": {
+      "name": "Ocultar rastreador de exaustão e inspiração em 0.",
+      "hint": "Ative para ocultar exaustão e inspiração se estiverem em 0. Mostrarão ao passar o mouse."
+    },
+    "T5EK.Settings.InspirationOnHover": {
+      "name": "Mostrar indicador de inspiração apenas ao passar o mouse.",
+      "hint": "Ative para mostrar o indicador de inspiração apenas quando você passar o mouse sobre o retrato."
+    },
+    "T5EK.Settings.ExhaustionOnHover": {
+      "name": "Mostrar rastreador de exaustão apenas ao passar o mouse.",
+      "hint": "Ative para mostrar o rastreador de exaustão apenas quando você passar o mouse sobre o retrato."
+    },
+    "T5EK.Settings.HpBar": {
+      "name": "Desativar barra de saúde.",
+      "hint": "Ative para ocultar a barra colorida que indica os PV restantes (os números de saúde ainda serão visíveis)."
+    },
+    "T5EK.Settings.HpOverlay": {
+      "name": "Ocultar sobreposição de pontos de vida.",
+      "hint": "Ative para ocultar a sobreposição de PV para este tipo de ator."
+    },
+    "T5EK.Settings.TraitsTogglePc": {
+      "name": "Alternar traços de personagem vazios.",
+      "hint": "Por padrão, os traços vazios estão sempre visíveis. Ative para adicionar um botão de alternância."
+    },
+    "T5EK.Settings.TraitsMovedBelowResource": {
+      "name": "Mover traços para abaixo dos recursos.",
+      "hint": "Ative para mover traços do lado esquerdo para abaixo dos recursos."
+    },
+    "T5EK.Settings.AmmoEquippedOnly": {
+      "name": "Mostrar apenas munição equipada.",
+      "hint": "Ative para mostrar apenas a munição atualmente equipada no seletor de munição da arma."
+    }
+    "T5EK.Settings.TraitsAlwaysShown": {
+      "name": "Sempre mostrar traços.",
+      "hint": "Por padrão, traços vazios são ocultados por um botão de alternância. Ative para nunca ocultar."
+    },
+    "T5EK.Settings.SkillsAlwaysShown": {
+      "name": "Sempre mostrar habilidades.",
+      "hint": "Por padrão, habilidades não proficientes são ocultadas por um botão de alternância. Ative para nunca ocultar."
+    },
+    "T5EK.Settings.HideSpellbookTabNpc": {
+      "name": "Ocultar guia de Livro de Feitiços em NPC",
+      "hint": "Por padrão, a guia de livro de feitiços no NPC é movida para a guia de atributos. Desative isso para nunca fazer isso."
+    },
+
+    "T5EK.Settings.ActiveEffectsMarker": {
+      "name": "Mostrar marcador de efeitos ativos nos itens.",
+      "hint": "Ative se quiser ver se os itens têm efeitos ativos sobre eles (apenas para visualização em lista)."
+    },
+    "T5EK.Settings.RightClickDisabled": {
+      "name": "Desativar menu de contexto do clique direito.",
+      "hint": "Em caso de conflitos de módulo ou preferência, você pode desativar o menu de contexto do clique direito."
+    },
+    "T5EK.Settings.ExpandedSheet": {
+      "name": "Visualização expandida para fichas de personagem.",
+      "hint": "Exibe a ficha de personagem inteira (menos o diário) para jogadores com permissão limitada."
+    },
+    "T5EK.Settings.PortraitStyle": {
+      "name": "Estilo de retrato redondo.",
+      "hint": "Escolha habilitar retratos/ícones redondos para atores.",
+      "all": "Todos os atores",
+      "pc": "Personagens",
+      "npc": "NPCs/Veículos",
+      "none": "Nenhum",
+      "default": "Nenhum"
+    },
+    "T5EK.Settings.EditTotalLock": {
+      "name": "Bloquear campos sensíveis.",
+      "hint": "Ative para evitar a alteração acidental de valores sensíveis e majoritariamente estáticos."
+    },
+    "T5EK.Settings.EditGmAlways": {
+      "name": "Mestre sempre pode editar fichas de personagens.",
+      "hint": "Ative para permitir que mestres editem fichas de personagens sem alternar o bloqueio da ficha."
+    },
+    "T5EK.Settings.EditEffectsGmOnly": {
+      "name": "Apenas o mestre pode editar efeitos ativos.",
+      "hint": "Ative para negar aos jogadores a edição de efeitos ativos em suas fichas. Eles ainda verão os efeitos aplicados."
+    },
+    "T5EK.Settings.QuantityAlwaysShown": {
+      "name": "Sempre mostrar quantidade de itens.",
+      "hint": "Ative para nunca ocultar a quantidade de itens."
+    },
+    "T5EK.Settings.InspirationDisabled": {
+      "name": "Desativar rastreador de inspiração.",
+      "hint": "Se sua campanha não usa inspiração, você pode desativar o rastreador completamente."
+    },
+    "T5EK.Settings.ExhaustionEffects": {
+      "name": "Efeitos automáticos de exaustão.",
+      "hint": "Escolha como aplicar efeitos de exaustão correspondentes aos níveis (requer midiQol para rolagens com desvantagem)",
+      "default": "Sem efeitos automáticos de exaustão",
+      "T5EK": "T5EK - Aplicar efeitos integrados (usa Efeitos Ativos)",
+      "dfredce": "DFreds Convenient Effects - Use seus próprios efeitos",
+      "cub": "CUB - Use seus próprios efeitos",
+      "custom": "Personalizado - Use seus próprios efeitos (requer CUB)"
+    },
+    "T5EK.Settings.CustomExhaustionIcon": {
+      "name": "Ícone personalizado de efeito de exaustão.",
+      "hint": "Defina seu ícone personalizado de efeito de exaustão fornecendo uma URL de imagem. Disponível apenas quando o efeito de exaustão está definido como \"Tidy 5e\" (ex.: modules/T5EK-sheet/images/exhaustion.svg)."
+    },
+    "T5EK.Settings.CustomExhaustionEffect": {
+      "name": "Nome personalizado de efeito de exaustão CUB.",
+      "hint": "Defina o nome para seu efeito personalizado de exaustão - deve ser o mesmo definido no CUB, mas SEM o número do nível. (ex.: \"Exaustão\")",
+      "tiers": "Número de níveis personalizados de exaustão no CUB. Padrão = 5",
+      "warning": "Não é possível encontrar o token do ator para aplicar o efeito de exaustão!"
+    },
+    "T5EK.Settings.ExhaustionDisabled": {
+      "name": "Desativar rastreador de exaustão.",
+      "hint": "Se sua campanha não usa exaustão, você pode desativar o rastreador completamente."
+    },
+    "T5EK.Settings.RestingForNpcs": {
+      "name": "Descanso para NPCs.",
+      "hint": "Ative para mostrar o ícone/botões de descanso nas fichas de NPC."
+    },
+    "T5EK.Settings.RestingForNpcsChat": {
+      "name": "Ocultar cartão de chat para descanso de NPC.",
+      "hint": "Ative para ocultar o cartão de chat para descanso de NPC (aplica-se ao mestre e aos jogadores)."
+    },
+    "T5EK.Settings.LinkMarker": {
+      "name": "Marcar NPCs vinculados/não vinculados.",
+      "hint": "Adiciona uma borda colorida e um ícone às fichas de NPCs vinculados/não vinculados.",
+      "default": "Sem marcador de vínculo (padrão)",
+      "unlinked": "Destacar tokens não vinculados",
+      "linked": "Destacar tokens vinculados",
+      "both": "Destacar tokens vinculados e não vinculados"
+    },
+    "T5EK.Settings.DefaultActionsTab": {
+      "name": "Guia padrão ao abrir uma ficha pela primeira vez.",
+      "hint": "Escolha entre 'Ações' e 'Atributos'.",
+      "default": "",
+      "attributes": "Atributos",
+      "inventory": "Inventário",
+      "spellbook": "Livro de Feitiços",
+      "features": "Características",
+      "effects": "Efeitos",
+      "biography": "Biografia",
+      "journal": "Diário",
+      "actions": "Ações"
+    },
+    "T5EK.Settings.HiddenDeathSaves": {
+      "name": "Ocultar Salvações de Morte dos jogadores.",
+      "hint": "Ative para que as Salvações de Morte e os Resultados das Salvações de Morte sejam visíveis apenas para o mestre."
+    },
+    "T5EK.Settings.HideSpellSlotMarker": {
+      "name": "Ocultar marcador de slot de feitiço na ficha.",
+      "hint": "Ative para ocultar o marcador de slot de feitiço colorido, geralmente útil quando a regra variante de pontos de feitiço está em uso."
+    },
+    "T5EK.Settings.EnableSpellLevelButtons": {
+      "name": "Habilitar botões de nível de feitiço.",
+      "hint": "Ative para substituir o menu suspenso de seleção de nível de feitiço por botões."
+    },
+    "T5EK.Settings.HideStandardEncumbranceBar": {
+      "name": "Remover/Ocultar barra padrão de carga da ficha de personagem",
+      "hint": "Se ativado, ocultará a barra padrão de carga. Se você estiver usando o módulo 'Carga Variável', provavelmente NÃO PRECISA DISSO."
+    },
+    "T5EK.Settings.npsSheetWidth": {
+      "name": "Largura padrão da ficha de NPC.",
+      "hint": "A largura da ficha do NPC em pixels, requer uma atualização para entrar em vigor (padrão 740)."
+    },
+    "T5EK.Settings.playerSheetWidth": {
+      "name": "Largura padrão da ficha do jogador.",
+      "hint": "A largura da ficha do jogador em pixels, requer uma atualização para entrar em vigor (padrão 740)."
+    },
+    "T5EK.Settings.vehicleSheetWidth": {
+      "name": "Largura padrão da ficha de veículo.",
+      "hint": "A largura da ficha do veículo em pixels, requer uma atualização para entrar em vigor (padrão 740)."
+    },
+    "T5EK.Settings.SpellClassFilterSelect": {
+      "name": "Habilitar filtro de Livro de Feitiços Multiclasse",
+      "hint": "Se você não precisar disso para seu personagem, desativar esta opção permitirá que você recupere espaço e organize melhor sua ficha."
+    },
+    "T5EK.Settings.SpellClassFilterIconReplace": {
+      "name": "Cobrir ícone do feitiço com ícone da classe",
+      "hint": "Ativar isso mudará a guia do livro de feitiços para exibir o ícone da classe em vez do ícone do feitiço."
+    },
+    "T5EK.Settings.SpellClassFilterAdditionalClasses": {
+      "name": "Adicionar classes adicionais para 'Filtro de Livro de Feitiços Multiclasse'",
+      "hint": "Adicione classes caseiras adicionais ao menu suspenso com esta sintaxe 'id1|name1,id2|name2', por exemplo, 'ocultista|Ocultista,alquimista|Alquimista'"
+    },
+    "T5EK.Settings.LazyHpAndExpEnable": {
+      "name": "Ativar HP e Exp Fáceis",
+      "hint": "Adicione ou remova facilmente HP e Experiência com conversão automática e sem excedente. Permitirá entradas como '+10', '-10', '=10', '010'"
+    },
+    "T5EK.Settings.LazyHpForceHpValueLimit1": {
+      "name": "Forçar (APENAS no lado da ficha) a não exceder o valor máximo de hp atual + hp max temp (hp.value <= hp.max + hp.tempmax)",
+      "hint": "Esta configuração força, se habilitada, garantir que o 'hp.value <= (hp.max + hp.tempmax)'."
+    },
+    "T5EK.Settings.LazyHpForceHpValueLimit2": {
+      "name": "Forçar (APENAS no lado da ficha) a não exceder o valor máximo de hp atual, mas adicionar pontos de vida temporários (hp.value <= hp.max && hp.temp <= hp.tempmax)",
+      "hint": "Esta configuração força a lógica de calcular a adição de pontos de vida temporários, forçando o usuário a preencher o campo de pontos de vida temporários (hp.temp) em vez de aumentar o campo de pontos de vida atual (hp.value), mas para evitar controvérsia, por padrão, está desabilitada para respeitar o comportamento da ficha padrão. Se habilitada, garante que 'hp.value <= hp.max' aumentando os pontos de vida temporários 'hp.temp' de acordo se 'hp.value > hp.max', mas sempre com 'hp.temp <= hp.tempmax'."
+    },
+    "T5EK.Settings.LazyMoneyEnable": {
+      "name": "Ativar Dinheiro Fácil",
+      "hint": "Adicione ou remova facilmente moeda com conversão automática e sem excedente. Permitirá entradas como '+10', '-10', '=10', '010'"
+    },
+    "T5EK.Settings.LazyMoneyAddConvert": {
+      "name": "Converter ao adicionar dinheiro",
+      "hint": "Converte automaticamente a moeda para denominações superiores ao adicionar dinheiro, em vez do comportamento padrão de preservar as denominações recebidas."
+    },
+    "T5EK.Settings.LazyMoneyIgnoreElectrum": {
+      "name": "Ignorar Electrum",
+      "hint": "Ao converter, ignora electrum. Isso não afetará a adição ou remoção direta, exceto no caso em que 'Converter ao adicionar dinheiro' também estiver habilitado."
+    },
+    "T5EK.Settings.LazyMoneyChatLog": {
+      "name": "Registro no chat",
+      "hint": "Sussurra quaisquer mudanças de moeda para o Mestre."
+    },
+    "T5EK.Settings.AllowCantripToBePreparedOnContext": {
+      "name": "Permitir que truques sejam 'preparados' via clique direito",
+      "hint": "A regra opcional 'fórmulas de truques' do Caldeirão de Tasha para Tudo permite que Magos preparem seus truques após um descanso longo, da mesma forma que fazem com feitiços de nível."
+    },
+    "T5EK.Settings.LockMoneyChanges": {
+      "name": "Bloquear mudanças de dinheiro para não-Mestre",
+      "hint": "Isso bloqueará o campo de entrada de dinheiro pp, gp, ep, sp, cp na ficha arrumada para jogadores não Mestres. Todos os outros módulos que trabalham com esses campos funcionam normalmente."
+    },
+    "T5EK.Settings.LockExpChanges": {
+      "name": "Bloquear mudanças de experiência para não-Mestre",
+      "hint": "Isso bloqueará o campo de entrada de experiência na ficha arrumada para jogadores não Mestres. Todos os outros módulos que trabalham com esses campos funcionam normalmente."
+    },
+    "T5EK.Settings.LockHpMaxChanges": {
+      "name": "Bloquear mudanças de hp máximo para não-Mestre",
+      "hint": "Isso bloqueará o campo de entrada de hp máximo na ficha arrumada para jogadores não Mestres. Todos os outros módulos que trabalham com esses campos funcionam normalmente."
+    },
+    "T5EK.Settings.LockLevelSelector": {
+      "name": "Bloquear seletor de nível para não-Mestre",
+      "hint": "Desativa o menu suspenso de nível na aba Recursos da ficha arrumada ou oferece a opção de bloquear jogadores de mudá-lo. Todos os outros módulos que trabalham com esses campos funcionam normalmente."
+    },
+    "T5EK.Settings.LockConfigureSheet": {
+      "name": "Bloquear configuração de ficha para não-Mestre",
+      "hint": "Desativa e oculta o botão de configurar ficha na ficha arrumada, para evitar que os jogadores usem outras fichas. Todos os outros módulos que trabalham com esses campos funcionam normalmente."
+    },
+    "T5EK.Settings.LockItemQuantity": {
+      "name": "Bloquear quantidade de item para não-Mestre",
+      "hint": "Ative isso para bloquear o campo de quantidade de itens no inventário e na ficha de itens na ficha arrumada. Todos os outros módulos que trabalham com esses campos funcionam normalmente."
+    },
+    "T5EK.Settings.ColorPickerEnabled": {
+      "name": "Ativar Seletor de Cor",
+      "hint": "Ativar/Desativar o seletor de cores"
+    },
+    "T5EK.Settings.ColorPickerEquipped": {
+      "name": "Seletor de Cor para 'Equipado'",
+      "hint": "Selecione a cor que deseja usar para 'Equipado'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+    },
+    "T5EK.Settings.ColorPickerEquippedOutline": {
+      "name": "Seletor de Cor para 'Contorno Equipado'",
+      "hint": "Selecione a cor que deseja usar para 'Contorno Equipado'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+    },
+    "T5EK.Settings.ColorPickerEquippedAccent": {
+      "name": "Seletor de Cor para 'Acento Equipado'",
+      "hint": "Selecione a cor que deseja usar para 'Acento Equipado'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+    },
+    "T5EK.Settings.ColorPickerPrepared": {
+      "name": "Seletor de Cor para 'Preparado'",
+      "hint": "Selecione a cor que deseja usar para 'Preparado'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+    },
+    "T5EK.Settings.ColorPickerPreparedOutline": {
+      "name": "Seletor de Cor para 'Contorno Preparado'",
+      "hint": "Selecione a cor que deseja usar para 'Contorno Preparado'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+    },
+    "T5EK.Settings.ColorPickerPreparedAccent": {
+      "name": "Seletor de Cor para 'Acento Preparado'",
+      "hint": "Selecione a cor que deseja usar para 'Acento Preparado'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+    },
+    "T5EK.Settings.ColorPickerPact": {
+      "name": "Seletor de Cor para 'Pacto'",
+      "hint": "Selecione a cor que deseja usar para 'Pacto'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+    },
+    "T5EK.Settings.ColorPickerPactOutline": {
+      "name": "Seletor de Cor para 'Contorno de Pacto'",
+      "hint": "Selecione a cor que deseja usar para 'Contorno de Pacto'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+    },
+    "T5EK.Settings.ColorPickerPactAccent": {
+      "name": "Seletor de Cor para 'Acento de Pacto'",
+      "hint": "Selecione a cor que deseja usar para 'Acento de Pacto'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+    },
+    "T5EK.Settings.ColorPickerAtWill": {
+      "name": "Seletor de Cor para 'À Vontade'",
+      "hint": "Selecione a cor que deseja usar para 'À Vontade'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+    },
+    "T5EK.Settings.ColorPickerAtWillOutline": {
+    "name": "Seletor de Cor para 'Contorno À Vontade'",
+    "hint": "Selecione a cor que deseja usar para 'Contorno À Vontade'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+  },
+  "T5EK.Settings.ColorPickerAtWillAccent": {
+    "name": "Seletor de Cor para 'Acento À Vontade'",
+    "hint": "Selecione a cor que deseja usar para 'Acento À Vontade'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+  },
+  "T5EK.Settings.ColorPickerInnate": {
+    "name": "Seletor de Cor para 'Inato'",
+    "hint": "Selecione a cor que deseja usar para 'Inato'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+  },
+  "T5EK.Settings.ColorPickerInnateOutline": {
+    "name": "Seletor de Cor para 'Contorno Inato'",
+    "hint": "Selecione a cor que deseja usar para 'Contorno Inato'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+  },
+  "T5EK.Settings.ColorPickerInnateAccent": {
+    "name": "Seletor de Cor para 'Acento Inato'",
+    "hint": "Selecione a cor que deseja usar para 'Acento Inato'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+  },
+  "T5EK.Settings.ColorPickerAlwaysPrepared": {
+    "name": "Seletor de Cor para 'Sempre Preparado'",
+    "hint": "Selecione a cor que deseja usar para 'Sempre Preparado'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+  },
+  "T5EK.Settings.ColorPickerAlwaysPreparedOutline": {
+    "name": "Seletor de Cor para 'Contorno Sempre Preparado'",
+    "hint": "Selecione a cor que deseja usar para 'Contorno Sempre Preparado'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+  },
+  "T5EK.Settings.ColorPickerAlwaysPreparedAccent": {
+    "name": "Seletor de Cor para 'Acento Sempre Preparado'",
+    "hint": "Selecione a cor que deseja usar para 'Acento Sempre Preparado'. O valor de transparência '#00000000' é equivalente a desativar a cor para o contexto atual."
+  },
+  "T5EK.Settings.AllowHpMaxOverride": {
+    "name": "Permitir Sobrescrever HP Máximo no Personagem",
+    "hint": "Se habilitado, esta configuração permitirá que o Mestre altere manualmente o valor máximo de HP na ficha do personagem."
+  },
+  "T5EK.Settings.AllowHpConfigOverride": {
+    "name": "Permitir Sobrescrever Configuração de HP no Personagem",
+    "hint": "Normalmente você não precisa disso, mas se habilitado, esta configuração substituirá o painel de configuração de HP na ficha do personagem. ISTO SUBSTITUIRÁ O COMPORTAMENTO PADRÃO DO SISTEMA, ÚTIL PARA EVITAR ALGUNS COMPORTAMENTOS INDESEJADOS DO SISTEMA."
+  },
+  "T5EK.Settings.BetterAttackDialog": {
+    "name": "Ativar Melhor Destaque de Botões de Ataque Padrão",
+    "hint": "Os botões de ataque não mostram a ação sugerida de forma muito clara. Isso adiciona uma borda verde para Vantagem e vermelha para Desvantagem, dependendo de qual botão está destacado."
+  },
+  "T5EK.Settings.Reset": {
+    "name": "Redefinir configurações para o padrão",
+    "hint": "Isso redefinirá todas as configurações de volta para o padrão do sistema de jogo ativo.",
+    "dialogs": {
+      "title": "Redefinir Configurações do Módulo",
+      "content": "Tem certeza de que deseja redefinir todas as configurações do módulo para os padrões do sistema atual? <strong>ESTA AÇÃO NÃO PODE SER DESFEITA!</strong>",
+      "confirm": "Redefinir Configurações do Módulo",
+      "cancel": "Cancelar"
+    }
+  },
+  "T5EK.Settings.Debug": {
+    "name": "Ativar depuração",
+    "hint": "Imprime mensagens de depuração no console"
+  },
+  "T5EK.Settings.EnableSortFavoritesItemsAlphabetically": {
+    "name": "Ativar Ordenação Alfabética dos Favoritos",
+    "hint": "Se habilitada, esta configuração ordenará itens, características e feitiços alfabeticamente no modelo HTML dos favoritos."
+  },
+  "T5EK.Settings.EnableActionListOnFavoritePanel": {
+    "name": "Ativar Lista de Ações no Painel de Favoritos",
+    "hint": "Mostra itens favoritos agrupados por Ação, Ação Bônus, Reação. VOCÊ PRECISA DO MÓDULO 'Character Actions 5e Variant forked by p4535992 (https://github.com/p4535992/foundryvtt-character-actions-dnd5e)'"
+  },
+  "T5EK.Settings.HBEnableUpcastFreeSpell": {
+    "name": "Ativar Feitiço de Nível Superior Gratuito.",
+    "hint": "Adiciona um botão adicional ao lançar um feitiço para lançá-lo um nível acima. Esta é uma regra caseira. Obrigado a @mxfz no Discord pelo código da macro e a @thundershield pela ideia, você pode encontrar mais detalhes aqui https://discord.com/channels/170995199584108546/699750150674972743/1055686421198946465"
+  },
+  "T5EK.Settings.HBSetFeaturesForUpcastFreeSpell": {
+    "name": "Definir características para feitiço de nível superior gratuito",
+    "hint": "Esta configuração funciona apenas com a configuração de módulo 'Ativar feitiço de nível superior gratuito' habilitada, é uma string de nomes de características separadas pelo caractere '|', a busca por tais características não é sensível a maiúsculas e minúsculas; se encontrar uma característica 'válida', permite que os atores usem a característica de lançar feitiços de nível superior. SE DEIXADO EM BRANCO, SERÁ IGNORADO."
+  },
+  "T5EK.Settings.EnablePermanentUnlockOnNPCIfYouAreGM": {
+    "name": "Ativar desbloqueio permanente na Ficha de NPC se você for um Mestre",
+    "hint": "O Mestre não deveria poder editar fichas de NPCs mesmo quando bloqueadas? Se não for um bug, então é possível ter fichas de NPCs desbloqueadas por padrão? Ter que desbloquear fichas de NPCs apenas para deletar efeitos ativos ou itens toda vez tem se tornado tedioso"
+  },
+  "T5EK.Settings.EnablePermanentUnlockOnVehicleIfYouAreGM": {
+    "name": "Ativar desbloqueio permanente na Ficha de Veículo se você for um Mestre",
+    "hint": "O Mestre não deveria poder editar fichas de veículos mesmo quando bloqueadas? Se não for um bug, então é possível ter fichas de veículos desbloqueadas por padrão? Ter que desbloquear fichas de veículos apenas para deletar efeitos ativos ou itens toda vez tem se tornado tedioso"
+  },
+
+  "T5EK.WindowHeaderSheetSettingsTooltip": "Abrir Configurações da Ficha Tidy 5e",
+  "T5EK.FavoriteSpellLevelLabel": "Nível de Feitiço {number}"
+}
