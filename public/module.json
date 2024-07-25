@@ -39,5 +39,7 @@
     ],
     "requires": [],
     "conflicts": []
-  }
+  },
+  "download": "https://github.com/Renanrmx/foundry-vtt-tidy-5e-sheets/releases/download/v1.0.1a/module.zip",
+  "manifest": "https://github.com/Renanrmx/foundry-vtt-tidy-5e-sheets/releases/download/v1.0.1a/module.json"
 }
